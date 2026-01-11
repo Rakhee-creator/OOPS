@@ -5,6 +5,11 @@ This mini-project is a tribute to **EMC Corp**, my first job and powerhouse insp
 It demonstrates the **first pillar of Object-Oriented Programming (Encapsulation)** in Java.  
 The program models an EMC corporation blueprint with fields like DataCenter, Badge Access Authority, R&D Section, and Storage.
 
+This project helped me:
+• 	Practice Encapsulation in Java.
+• 	Debug IntelliJ errors and refine naming conventions.
+• 	Strengthen my troubleshooting skills.
+
 ## ✨ Features
 - Encapsulation with **private fields**.
 - Controlled access using **getters**.
