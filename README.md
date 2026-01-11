@@ -1,4 +1,4 @@
-# EMC Corp OOPS Demo 🪔🌞
+# OOPS ENCAPSULATION Demo 🪔🌞
 
 ## 📖 Overview
 This mini-project is a tribute to **EMC Corp**, my first job and powerhouse inspiration.  
