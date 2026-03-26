@@ -1,9 +1,9 @@
-# OOPS ENCAPSULATION Demo 🪔🌞
+# OOPS ENCAPSULATION Demo 
 
 ## 📖 Overview
 This mini-project is a tribute to **EMC Corp**, my first job and powerhouse inspiration.  
 It demonstrates the **first pillar of Object-Oriented Programming (Encapsulation)** in Java.  
-The program models an EMC corporation blueprint with fields like DataCenter, Badge Access Authority, R&D Section, and Storage.
+The program models an EMC corporation blueprint with fields like DataCenter, R&D Section, and Storage.
 
 This project helped me:
 • 	Practice Encapsulation in Java.
